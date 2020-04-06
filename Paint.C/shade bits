@@ -1,0 +1,6 @@
+int new shade = 0
+int shade = 0
+scanf("%d" &shade)
+if ( shade >= 0 && shade <= 4
+ns = shade;
+
